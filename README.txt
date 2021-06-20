@@ -1,3 +1,6 @@
+*** The following is a research assignment in which a multi layer perceptron was implemented from scratch and tested on two tasks, predicting exlcusive or and sine. ***
+
+
 * Path must be set if you wish to save logs.
 
 * To use the Multi Layer Perceptron, the following variables must be set :
