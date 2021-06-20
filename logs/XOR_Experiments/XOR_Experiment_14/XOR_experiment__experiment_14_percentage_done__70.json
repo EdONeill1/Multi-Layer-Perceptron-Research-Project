@@ -1,0 +1,1 @@
+{"Model": "XOR", "Error": 0.4999427614223909, "Accuracy": 75.0, "Hidden Units": 4, "Learning Rate": 1e-06, "Epochs": 1000000, "Epoch Percentage Finished": 70}

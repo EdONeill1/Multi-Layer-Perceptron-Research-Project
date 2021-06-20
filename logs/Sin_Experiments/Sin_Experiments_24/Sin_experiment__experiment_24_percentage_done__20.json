@@ -1,0 +1,1 @@
+{"Model": "Sin", "Error": [0.7086677547777203, 0.024151268098258242], "Accuracy": [29.133224522227973, 97.58487319017416], "Hidden Units": 5, "Learning Rate": 0.001, "Epochs": 1000000, "Epoch Percentage Finished": 20}
